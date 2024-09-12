@@ -1,6 +1,6 @@
-# Hello :grinning_face_with_smiling_eyes: :seedling: :rainbow:
+# Hello 😄: 🌱: 🌈:
 
-<img src="IMG_5362.jpg" alt="selfie of Annika wearing over the ear headphones and smiling" width="50%" height="50%">
+<img src="IMG_5362.jpg" width="50%" height="50%">
     
 My name is Annika (they/them) and above you can see a photo of me sitting outside while wearing my headphones :smile:. I'm in my 5th year of **Neuroscience**, but I'm also minoring in **English** and doing a **Science Communication and Leadership Certificate**!
 
