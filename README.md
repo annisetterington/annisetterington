@@ -1,6 +1,6 @@
 # Hello 😄: 🌱: 🌈:
 
-<img src="(https://github.com/user-attachments/assets/03e48eb1-34f4-46c7-89e8-163b0fbb2d37)" width="50%" height="50%">
+![IMG_5362](https://github.com/user-attachments/assets/03e48eb1-34f4-46c7-89e8-163b0fbb2d37)
     
 My name is Annika (they/them) and above you can see a photo of me sitting outside while wearing my headphones :smile:. I'm in my 5th year of **Neuroscience**, but I'm also minoring in **English** and doing a **Science Communication and Leadership Certificate**!
 
